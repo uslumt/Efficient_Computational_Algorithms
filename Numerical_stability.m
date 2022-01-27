@@ -12,7 +12,7 @@ b = exp(sin(4 * t));
 b = b / 2006.787453080206;   %Normalization
 format long
 x=A\b;
-fprintf('x(15)=')
+fprintf('x(15)=\n')
 %this figure was obtained with an extended precision arithmetic package
 x(15)
 [Q , R] = qr(A , 0);
