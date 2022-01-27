@@ -40,7 +40,7 @@ fprintf('QR-Gram-Schmidt \n')
 x1(15)
 
 
-x2 = (A' * A) \ (A' * b) 
+x2 = (A' * A) \ (A' * b) ;
 fprintf('Cholesky factorization \n')
 x2(15)
 
