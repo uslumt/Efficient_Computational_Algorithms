@@ -1,3 +1,4 @@
+
 m = 100; n = 15;
 t = (0 : m - 1)' / (m - 1);
 A = []; 
@@ -45,7 +46,7 @@ fprintf('Singular value decomposition \n')
 x3(15)
 
 [L, U, P] = lu(A);
-y = L\(P*b);
-x4 = U\y;
+y = L \ (P * b);
+x4 = U \ y;
 fprintf('LU with pivoting decomposition \n')
 x4(15)
