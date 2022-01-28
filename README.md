@@ -13,6 +13,14 @@ In this project, the matrix A in the linear equation above can be factorized by 
 * Code Python and Matlab scrips 
 
 ## Results 
+| Algorithm  | Numerical Stability |
+| ------------- | ------------- |
+| QR-Householder  | Content Cell  |
+|QR-Gram-Schmidt  | Content Cell  |
+| Cholesky   | Content Cell  |
+| Singular Value Decomposition  | Content Cell  |
+| LUP  | Content Cell  |
+
 ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
 ## Requirements
 * Jupyter Notebook
