@@ -34,3 +34,9 @@ For more results, elaboration and possible comparisons please check [Notebook](h
 * Jupyter Notebook
 * Python >= 3.6
 * Matlab
+
+## Future Work 
+This project is designed for future extencions and it can be seen that the datasets are publicly available. Especially [Symmetric Positive Definite](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_sparse_spd_matrix.html#sklearn.datasets.make_sparse_spd_matrix) matrix dataset has some pitfalls.
+It can be investigated with custom datasets and some improved factorization algorithms.
+
+
