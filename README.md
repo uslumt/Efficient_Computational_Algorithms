@@ -22,8 +22,7 @@ In this project, the matrix A in the linear equation above can be factorized by 
 | Singular Value Decomposition  | Content Cell  |
 | LUP  | Content Cell  |
 
-Acording to ....  the close outcome to true value 1 the more stable algorithm is.
-
+Acording to [Lloyd N. Trefethen and David Bau](https://people.maths.ox.ac.uk/trefethen/text.html) the close outcome to true value 1 the more stable algorithm is.
 
 
 | ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png) |
