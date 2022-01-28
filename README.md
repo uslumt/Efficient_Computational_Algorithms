@@ -26,6 +26,7 @@ Acording to ....  the close outcome to true value 1 the more stable algorithm is
 
 
 ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
+*Computation speed comparison of different factorization algorithms*
 
 ## Requirements
 * Jupyter Notebook
