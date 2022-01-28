@@ -14,13 +14,14 @@ In this project, the matrix A in the linear equation above can be factorized by 
 
 ## Results 
 
-| Algorithm  | Numerical Stability |
+| Algorithm  | Outcome |
 | ------------- | ------------- |
 | QR-Householder  | Content Cell  |
 |QR-Gram-Schmidt  | Content Cell  |
 | Cholesky   | Content Cell  |
 | Singular Value Decomposition  | Content Cell  |
 | LUP  | Content Cell  |
+Acording to ....  the close outcome to true value 1 the more stable algorithm is.
 
 
 ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
