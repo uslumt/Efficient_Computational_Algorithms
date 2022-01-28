@@ -21,9 +21,9 @@ In this project, the matrix A in the linear equation above can be factorized by 
 | Cholesky   | Content Cell  |
 | Singular Value Decomposition  | Content Cell  |
 | LUP  | Content Cell  |
-
+</p>
 ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
- </p>
+ 
 ## Requirements
 * Jupyter Notebook
 * Python >= 3.6
