@@ -16,11 +16,11 @@ In this project, the matrix A in the linear equation above can be factorized by 
 
 | Algorithm  | Outcome |
 | ------------- | ------------- |
-| QR-Householder  | Content Cell  |
-|QR-Gram-Schmidt  | Content Cell  |
-| Cholesky   | Content Cell  |
-| Singular Value Decomposition  | Content Cell  |
-| LUP  | Content Cell  |
+| QR-Householder  | 1.000000284809481  |
+|QR-Gram-Schmidt  | 0.981779891867633  |
+| Cholesky   | -0.390537644183687  |
+| Singular Value Decomposition  | 1.000000284809170  |
+| LUP  | 0.999999951596828   |
 
 Acording to [Lloyd N. Trefethen and David Bau](https://people.maths.ox.ac.uk/trefethen/text.html) the close outcome to true value 1 the more stable algorithm is.
 
