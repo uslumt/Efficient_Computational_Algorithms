@@ -40,6 +40,6 @@ This project is designed for future extencions and it can be seen that the datas
 It can be investigated with custom datasets and some improved factorization algorithms.
 
 ## Authors
-Muhammet USLU @ USI & FAU
+Muhammet USLU @ USI & FAU,  
 Mao Yen PO  @ USI & FAU
 
