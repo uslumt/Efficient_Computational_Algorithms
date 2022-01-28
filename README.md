@@ -29,6 +29,7 @@ Acording to [Lloyd N. Trefethen and David Bau](https://people.maths.ox.ac.uk/tre
 |:--:| 
   |**figure 1 :** *Computation speed comparison of different factorization algorithms*|
 
+For more results, elaboration and possible comparisons please check [Notebook](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Main.ipynb)
 ## Requirements
 * Jupyter Notebook
 * Python >= 3.6
