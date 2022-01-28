@@ -24,13 +24,11 @@ In this project, the matrix A in the linear equation above can be factorized by 
 
 Acording to ....  the close outcome to true value 1 the more stable algorithm is.
 
-<p>
-    <img src="https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png" alt>
-    <em>Computation speed comparison of different factorization algorithms</em>
-</p>
 
-![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
-*Computation speed comparison of different factorization algorithms*
+
+| ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png) |
+|:--:| 
+|*Computation speed comparison of different factorization algorithms*|
 
 ## Requirements
 * Jupyter Notebook
