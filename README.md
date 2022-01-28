@@ -21,6 +21,7 @@ In this project, the matrix A in the linear equation above can be factorized by 
 | Cholesky   | Content Cell  |
 | Singular Value Decomposition  | Content Cell  |
 | LUP  | Content Cell  |
+
 ]
 <p align="center">
 ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
