@@ -13,6 +13,7 @@ In this project, the matrix A in the linear equation above can be factorized by 
 * Code Python and Matlab scrips 
 
 ## Results 
+<p align="center">
 | Algorithm  | Numerical Stability |
 | ------------- | ------------- |
 | QR-Householder  | Content Cell  |
@@ -22,6 +23,7 @@ In this project, the matrix A in the linear equation above can be factorized by 
 | LUP  | Content Cell  |
 
 ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png)
+ </p>
 ## Requirements
 * Jupyter Notebook
 * Python >= 3.6
