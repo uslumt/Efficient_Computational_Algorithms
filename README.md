@@ -21,6 +21,7 @@ In this project, the matrix A in the linear equation above can be factorized by 
 | Cholesky   | Content Cell  |
 | Singular Value Decomposition  | Content Cell  |
 | LUP  | Content Cell  |
+
 Acording to ....  the close outcome to true value 1 the more stable algorithm is.
 
 
