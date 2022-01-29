@@ -21,7 +21,8 @@ In this project, the matrix A in the linear equation above can be factorized by 
 | Cholesky   | -0.390537644183687  |
 | Singular Value Decomposition  | 1.000000284809170  |
 | LUP  | 0.999999951596828   |
-Vandermonde Least Squares Problem Resluts
+|**table 1 :** *Vandermonde Least Squares Problem Resluts* 
+
 Acording to [Lloyd N. Trefethen and David Bau](https://people.maths.ox.ac.uk/trefethen/text.html) the absolutely close Outcome to true value 1 the more stable algorithm is.
 
 
