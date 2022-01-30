@@ -27,7 +27,7 @@ In this project, the matrix A in the linear equation above can be factorized by 
 Acording to [Lloyd N. Trefethen and David Bau](https://people.maths.ox.ac.uk/trefethen/text.html) the absolutely close Outcome to true value 1 the more stable algorithm is.
 
 
-| ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Result_1.png) |
+| ![Speed](https://github.com/uslumt/Efficient_Computational_Algorithms/blob/main/Result/figures/Computation_time_identity.png) |
 |:--:| 
   |**figure 1 :** *Computation speed comparison of different factorization algorithms*|
 
